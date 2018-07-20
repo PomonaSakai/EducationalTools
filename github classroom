@@ -18,6 +18,8 @@ https://classroom.github.com/videos
 from http://rijndael.ece.vt.edu/schaum//blog/ghclassroom/ programming course
 
 
+### GitHub Education
+https://github.com/education/classroom/issues/959
 
 Resources:
 ***https://github.com/jfiksel/github-classroom-for-teachers
@@ -25,3 +27,17 @@ pomonasakaitool link https://classroom.github.com/classrooms/41397788-pomonasaka
 ***https://classroom.github.com/videos
 https://education.github.com/guide
 https://ubc-mds.github.io/2017-08-24-teaching-with-github/
+
+
+Three use cases for gitHub classroom
+https://www.youtube.com/watch?v=3j1BaUw53pM
+In this panel three professors shared how they used GitHub for their courses: 
+* Omar Shaikh (SFSU) GitHub + Travis CI for automated grading (https://www.youtube.com/watch?v=qimc_OGD75E)
+* S. Monisha Pulimood (TCNJ) Collaborating on real-world projects 
+* David Malan (Harvard) Custom tools for CS50
+  - Havard one is the best (28 min)  
+  https://docs.google.com/presentation/d/1FkNuigljEom75h4WPdELNaQdq-zhunBYynwSEZuXGYU/edit#slide=id.g1eeb1862af_0_234
+  - auto grading for programing courses
+https://www.cs.cmu.edu/~ckaestne/travis/
+https://www.researchgate.net/post/What_tools_do_you_use_for_automated_grading_of_assignments_that_involve_programming
+https://cseducators.stackexchange.com/questions/1205/how-can-i-automate-the-grading-of-programming-assignments

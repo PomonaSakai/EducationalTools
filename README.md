@@ -31,3 +31,6 @@ So to recap, my suggestion if you want nice looking pages displayed in your ifra
 4. Embed your new Github pages page into your Canvas content page using an iframe with code something like:
     <iframe src="https://musebrarian.github.io/<project-name>/<page-name>" width="100%" height="600"></iframe>  
 Now you can use all the Github power of version control on those pages plus have them embedded into your Canvas course and have them update in Canvas when you change them in Github.
+
+
+### github project setup

@@ -27,6 +27,15 @@ from https://community.canvaslms.com/thread/7640
 So to recap, my suggestion if you want nice looking pages displayed in your iframe, use Github Pages.
 1. Go to https://pages.github.com
 2.  Click "Project Site"
+
+### GitHub Pages creation and publishing
+https://pages.github.com/
+
+
+
+https://github.com/education/classroom/issues/959
+
+### https://github.com/education/classroom/issues/959
 3. Follow the instructions there to create your gh-pages branch and create your first page
 4. Embed your new Github pages page into your Canvas content page using an iframe with code something like:
     <iframe src="https://musebrarian.github.io/<project-name>/<page-name>" width="100%" height="600"></iframe>  
